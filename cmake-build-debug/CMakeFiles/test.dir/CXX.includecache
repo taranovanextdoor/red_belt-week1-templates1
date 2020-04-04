@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ekaterina/CLionProjects/test/main.cpp
+iostream
+-
+vector
+-
+map
+-
+utility
+-
+sstream
+-
+universal_out_map_vector_pair.h
+/home/ekaterina/CLionProjects/test/universal_out_map_vector_pair.h
+
+/home/ekaterina/CLionProjects/test/universal_out_map_vector_pair.h
+sstream
+-
+string
+-
+
